@@ -4,7 +4,7 @@
     </a>
     <br>
     Stalwart IMAP Server
-</h1>
+</h2>
 
 <p align="center">
   <i align="center">Secure and Modern IMAP4rev2 server</i> 🛡️
